@@ -132,7 +132,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Jeddaa/my_new_rails_app/issues).
+Feel free to check the [issues page](https://github.com/Jeddaa/rails-app-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
