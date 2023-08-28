@@ -72,7 +72,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```
-  cd hello-rails-app
+  cd rails-app-backend
   git clone https://github.com/jeddaa/rails-app-backend.git
 ```
 
@@ -99,6 +99,35 @@ To run tests, run the following command:
 ```
   rubocop
 ```
+
+### Setup React frontennd
+
+Clone this repository to your desired folder:
+
+```
+  cd react-app-frontend
+  git clone https://github.com/Jeddaa/react-app-frontend.git
+```
+
+### Install
+
+Install this project with:
+
+```
+  npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```
+  npm start
+```
+
+### Run tests
+
+To run tests, run the following command:
 
 ```
   npx stylelint "**/*.{css,scss}"
