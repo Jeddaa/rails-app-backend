@@ -6,6 +6,7 @@
 
 - [📖 About the Project](#about-project)
 - [API](#api)
+- [🛠 Link to front-end](#link-frontend)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -26,6 +27,12 @@
 # 📖 [Hello-rails-app] <a name="about-project"></a>
 
 **[Hello-rails-app]** Is an app that fetches and displays random greetings.
+
+## 🛠 Link to front-end <a name="link-frontend"></a>
+
+-- [Link to frontend!](https://github.com/Jeddaa/react-app-frontend)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 🛠 Built With <a name="built-with"></a>
 
