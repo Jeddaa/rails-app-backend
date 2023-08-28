@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Be sure to restart your server when you modify this file.
 
 # Avoid CORS issues when API is called from the frontend app.
@@ -14,3 +16,10 @@
 #       methods: [:get, :post, :put, :patch, :delete, :options, :head]
 #   end
 # end
+Rails.application.config.middleware.insert_before 0, Rack::Cors do
+  allow do
+    origins 'http://localhost:3000/api/greetings', 'http://localhost:3001'
+    # modify the origin to be the URL of your API endpoint
+    resource '*', headers: :any, methods: %i[get post]
+  end
+end
